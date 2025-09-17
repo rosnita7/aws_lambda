@@ -1,6 +1,6 @@
 ## Reflection
 
-Some challenges I faced while working on this assignment were learning all of the different features of AWS and learning which features would connect all the services to each other correctly, aside from what was in the directions. I had to make sure that all of my services had the correct permissions in order to access everything. Lambda proxy integration was something that I had to turn on in order for the data to be formatted correctly for the lambda function. 
+Some challenges I faced while working on this assignment were learning all of the different features of AWS and learning which features would connect all the services to each other correctly, aside from what was in the directions. I had to make sure that all of my services had the correct permissions in order to access everything. Lambda proxy integration was something that I had to turn on in order for the data to be formatted correctly for the lambda function. I also had to figure out where the resource path was, so that the API methods used the correct path with /students.
 
 ## First POST request and logs
 
